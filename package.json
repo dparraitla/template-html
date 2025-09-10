@@ -4,6 +4,8 @@
   "description": "A collection of progressive Git exercises for GitHub Classroom with automated testing.",
   "main": "index.js",
   "scripts": {
+    "start": "echo 'Proyecto de ejercicios de Git iniciado. Usa npm test para ejecutar las pruebas.'",
+    "dev": "npm run test:watch",
     "test": "jest",
     "test:git": "jest --testPathPattern=\"[123]-.*\\.test\\.js$\"",
     "test:github": "jest --testPathPattern=\"[4567]-.*\\.test\\.js$\"",

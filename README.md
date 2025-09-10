@@ -2,6 +2,13 @@
 
 Aquí les dejo una colección completa de ejercicios progresivos para aprender Git y GitHub, diseñados para GitHub Classroom con autocalificación automática usando Jest.
 
+## 📖 Recursos Adicionales
+
+- [Documentación oficial de Git](https://git-scm.com/doc)
+- [GitHub Learning Lab](https://lab.github.com/)
+- [Interactive Git Tutorial](https://learngitbranching.js.org/)
+
+
 ## 📚 Descripción del Proyecto
 
 Este repositorio contiene una serie de ejercicios estructurados para que los estudiantes aprendan Git desde lo básico hasta conceptos más avanzados. Cada ejercicio incluye:
@@ -146,13 +153,6 @@ Las contribuciones son bienvenidas. Por favor:
 1. Revisa los [criterios de evaluación](#criterios-de-evaluacion).
 2. Realiza tus cambios y Commit tus cambios (`git commit -m 'Añadir nueva característica'`)
 3. Push
-
-## 📖 Recursos Adicionales
-
-- [Documentación oficial de Git](https://git-scm.com/doc)
-- [GitHub Learning Lab](https://lab.github.com/)
-- [Interactive Git Tutorial](https://learngitbranching.js.org/)
-
 ---
 
 **¡Feliz aprendizaje con Git! 🎉**
